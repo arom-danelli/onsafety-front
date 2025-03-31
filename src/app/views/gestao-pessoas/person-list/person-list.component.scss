@@ -1,0 +1,10 @@
+.btn-add-person {
+    background-color: #91c023;
+    color: #fff;
+    border: none;
+  
+    &:hover {
+      background-color: lighten(#91c023, 10%);
+    }
+  }
+  

@@ -39,8 +39,8 @@ export const navItems: INavData[] = [
     attributes: { target: '_blank' }
   },
   {
-    name: 'Docs',
-    url: 'https://coreui.io/angular/docs/',
+    name: 'Repo Frontend',
+    url: 'https://github.com/arom-danelli/onsafety-front.git',
     iconComponent: { name: 'cil-description' },
     attributes: { target: '_blank' }
   }
